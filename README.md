@@ -75,4 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Thanks to the developers of the libraries used in this project.
 
 ## Contact
-For any inquiries or questions, please contact [yourname@domain.com].
+For any inquiries or questions, please contact [dostonshernazarov989@gmail.com].
